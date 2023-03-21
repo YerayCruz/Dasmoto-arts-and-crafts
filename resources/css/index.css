@@ -8,7 +8,7 @@
     text-align: center;
     color: khaki;
     background-image: url("../images/pattern.jpeg");
-    top: 50px;
+    margin: 80px 0px;
 }
 .elements h3{
     display: block;
@@ -16,6 +16,7 @@
     font-size: 32px;
     font-weight: bold;
     color: white;
+    margin: 20px 0px;
 }
 
 #brushes h3{
@@ -34,4 +35,13 @@ span{
 
 #paint h3{
     background-color: skyblue;
+}
+
+h4{
+    margin: 20px 0px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 18px;
 }
