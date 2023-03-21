@@ -1,9 +1,37 @@
-
-#title p{
+*{
+    margin: 0 0;
+}
+#title h1{
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
+    text-align: center;
     color: khaki;
-    margin: 0 auto;
     background-image: url("../images/pattern.jpeg");
+    top: 50px;
+}
+.elements h3{
+    display: block;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#brushes h3{
+    background-color: mediumspringgreen;
+}
+
+span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#frames h3{
+    background-color: lightcoral;
+}
+
+#paint h3{
+    background-color: skyblue;
 }
